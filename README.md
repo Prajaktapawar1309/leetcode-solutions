@@ -11,3 +11,4 @@ Daily DSA practice for placement preparation.
 | 136 | Single Number | Easy | XOR | O(n) | O(1) | Done |
 | 238 | Product of Array Except Self | Medium | Left and right products | O(n) | O(1) | Done |
 | 53 | Maximum Subarray | Medium | Kadane's algorithm | O(n) | O(1) | Done |
+| 189 | Rotate Array | Medium | Reverse method | O(n) | O(1) | Done |
