@@ -14,3 +14,4 @@ Daily DSA practice for placement preparation.
 | 189 | Rotate Array | Medium | Reverse method | O(n) | O(1) | Done |
 | 88 | Merge Sorted Array | Easy | Three pointers from back | O(m+n) | O(1) | Done |
 | 169 | Majority Element | Easy | Boyer-Moore voting | O(n) | O(1) | Done |
+| 560 | Subarray Sum Equals K | Medium | Prefix sum + hash map | O(n) | O(n) | Done |
