@@ -13,3 +13,4 @@ Daily DSA practice for placement preparation.
 | 53 | Maximum Subarray | Medium | Kadane's algorithm | O(n) | O(1) | Done |
 | 189 | Rotate Array | Medium | Reverse method | O(n) | O(1) | Done |
 | 88 | Merge Sorted Array | Easy | Three pointers from back | O(m+n) | O(1) | Done |
+| 169 | Majority Element | Easy | Boyer-Moore voting | O(n) | O(1) | Done |
