@@ -16,3 +16,4 @@ Daily DSA practice for placement preparation.
 | 169 | Majority Element | Easy | Boyer-Moore voting | O(n) | O(1) | Done |
 | 560 | Subarray Sum Equals K | Medium | Prefix sum + hash map | O(n) | O(n) | Done |
 | 217 | Contains Duplicate | Easy | Hash set | O(n) | O(n) | Done |
+| 26 | Remove Duplicates from Sorted Array | Easy | Two pointers | O(n) | O(1) | Done |
