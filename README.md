@@ -17,3 +17,4 @@ Daily DSA practice for placement preparation.
 | 560 | Subarray Sum Equals K | Medium | Prefix sum + hash map | O(n) | O(n) | Done |
 | 217 | Contains Duplicate | Easy | Hash set | O(n) | O(n) | Done |
 | 26 | Remove Duplicates from Sorted Array | Easy | Two pointers | O(n) | O(1) | Done |
+| 1480 | Running Sum of 1d Array | Easy | Prefix sum | O(n) | O(1) | Done |
