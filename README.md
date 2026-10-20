@@ -20,3 +20,4 @@ Daily DSA practice for placement preparation.
 | 1480 | Running Sum of 1d Array | Easy | Prefix sum | O(n) | O(1) | Done |
 | 709 | To Lower Case | Easy | ASCII, add 32 to uppercase | O(n) | O(1) | Done |
 | 326 | Power of Three | Easy | Divide by 3 | O(log n) | O(1) | Done |
+| 342 | Power of Four | Easy | Divide by 4 | O(log n) | O(1) | Done |
