@@ -23,3 +23,4 @@ Daily DSA practice for placement preparation.
 | 342 | Power of Four | Easy | Divide by 4 | O(log n) | O(1) | Done |
 | 27 | Remove Element | Easy | Two pointers | O(n) | O(1) | Done |
 | 66 | Plus One | Easy | Carry from the last digit | O(n) | O(1) | Done |
+| 118 | Pascal's Triangle | Easy | Sum of two numbers above | O(n^2) | O(n^2) | Done |
