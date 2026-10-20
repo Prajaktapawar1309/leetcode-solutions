@@ -18,3 +18,4 @@ Daily DSA practice for placement preparation.
 | 217 | Contains Duplicate | Easy | Hash set | O(n) | O(n) | Done |
 | 26 | Remove Duplicates from Sorted Array | Easy | Two pointers | O(n) | O(1) | Done |
 | 1480 | Running Sum of 1d Array | Easy | Prefix sum | O(n) | O(1) | Done |
+| 709 | To Lower Case | Easy | ASCII, add 32 to uppercase | O(n) | O(1) | Done |
