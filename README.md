@@ -21,3 +21,4 @@ Daily DSA practice for placement preparation.
 | 709 | To Lower Case | Easy | ASCII, add 32 to uppercase | O(n) | O(1) | Done |
 | 326 | Power of Three | Easy | Divide by 3 | O(log n) | O(1) | Done |
 | 342 | Power of Four | Easy | Divide by 4 | O(log n) | O(1) | Done |
+| 27 | Remove Element | Easy | Two pointers | O(n) | O(1) | Done |
