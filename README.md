@@ -26,3 +26,4 @@ Daily DSA practice for placement preparation.
 | 118 | Pascal's Triangle | Easy | Sum of two numbers above | O(n^2) | O(n^2) | Done |
 | 167 | Two Sum II | Medium | Two pointers | O(n) | O(1) | Done |
 | 977 | Squares of a Sorted Array | Easy | Two pointers, fill from back | O(n) | O(n) | Done |
+| 2235 | Add Two Integers | Easy | Direct sum | O(1) | O(1) | Done |
