@@ -28,3 +28,4 @@ Daily DSA practice for placement preparation.
 | 977 | Squares of a Sorted Array | Easy | Two pointers, fill from back | O(n) | O(n) | Done |
 | 2235 | Add Two Integers | Easy | Direct sum | O(1) | O(1) | Done |
 | 448 | Find All Numbers Disappeared in an Array | Easy | Mark index negative | O(n) | O(1) | Done |
+| 1295 | Find Numbers with Even Number of Digits | Easy | Count digits | O(n*d) | O(1) | Done |
