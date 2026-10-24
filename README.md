@@ -32,3 +32,4 @@ Daily DSA practice for placement preparation.
 | 58 | Length of Last Word | Easy | Scan from the end | O(n) | O(1) | Done |
 | 13 | Roman to Integer | Easy | Subtract if next is bigger | O(n) | O(1) | Done |
 | 1929 | Concatenation of Array | Easy | Copy to i and i+n | O(n) | O(n) | Done |
+| 643 | Maximum Average Subarray I | Easy | Fixed sliding window | O(n) | O(1) | Done |
