@@ -31,3 +31,4 @@ Daily DSA practice for placement preparation.
 | 1295 | Find Numbers with Even Number of Digits | Easy | Count digits | O(n*d) | O(1) | Done |
 | 58 | Length of Last Word | Easy | Scan from the end | O(n) | O(1) | Done |
 | 13 | Roman to Integer | Easy | Subtract if next is bigger | O(n) | O(1) | Done |
+| 1929 | Concatenation of Array | Easy | Copy to i and i+n | O(n) | O(n) | Done |
