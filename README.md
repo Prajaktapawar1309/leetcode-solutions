@@ -33,3 +33,4 @@ Daily DSA practice for placement preparation.
 | 13 | Roman to Integer | Easy | Subtract if next is bigger | O(n) | O(1) | Done |
 | 1929 | Concatenation of Array | Easy | Copy to i and i+n | O(n) | O(n) | Done |
 | 643 | Maximum Average Subarray I | Easy | Fixed sliding window | O(n) | O(1) | Done |
+| 459 | Repeated Substring Pattern | Easy | Find s in (s+s) without ends | O(n) | O(n) | Done |
