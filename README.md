@@ -36,3 +36,4 @@ Daily DSA practice for placement preparation.
 | 459 | Repeated Substring Pattern | Easy | Find s in (s+s) without ends | O(n) | O(n) | Done |
 | 209 | Minimum Size Subarray Sum | Medium | Variable sliding window | O(n) | O(1) | Done |
 | 680 | Valid Palindrome II | Easy | Two pointers, one skip | O(n) | O(1) | Done |
+| 2413 | Smallest Even Multiple | Easy | Even check | O(1) | O(1) | Done |
