@@ -39,3 +39,4 @@ Daily DSA practice for placement preparation.
 | 2413 | Smallest Even Multiple | Easy | Even check | O(1) | O(1) | Done |
 | 1108 | Defanging an IP Address | Easy | Build a new string | O(n) | O(n) | Done |
 | 268 | missing number | easy | XOR indices and array elements to find missing value | O(n) | O(1) | done |
+| 67 | Add Binary | Easy | Digit-by-digit addition with carry | O(n) | O(n) | Done |
