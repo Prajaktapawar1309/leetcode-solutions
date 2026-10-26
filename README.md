@@ -38,3 +38,4 @@ Daily DSA practice for placement preparation.
 | 680 | Valid Palindrome II | Easy | Two pointers, one skip | O(n) | O(1) | Done |
 | 2413 | Smallest Even Multiple | Easy | Even check | O(1) | O(1) | Done |
 | 1108 | Defanging an IP Address | Easy | Build a new string | O(n) | O(n) | Done |
+| 268 | missing number | easy | XOR indices and array elements to find missing value | O(n) | O(1) | done |
