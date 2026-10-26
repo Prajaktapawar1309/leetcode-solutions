@@ -40,3 +40,4 @@ Daily DSA practice for placement preparation.
 | 1108 | Defanging an IP Address | Easy | Build a new string | O(n) | O(n) | Done |
 | 268 | missing number | easy | XOR indices and array elements to find missing value | O(n) | O(1) | done |
 | 67 | Add Binary | Easy | Digit-by-digit addition with carry | O(n) | O(n) | Done |
+| 344 | reverse string | easy | reverse using STL | O(n) | O(1) | done |
